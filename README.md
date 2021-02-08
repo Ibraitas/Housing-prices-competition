@@ -1,4 +1,4 @@
-# Housing prices competition
+# Housing prices competition: Project Preview
 
 ## Description of the competition
 
