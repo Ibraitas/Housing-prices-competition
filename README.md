@@ -1,4 +1,4 @@
-# Housing-prices-competition
+# Housing prices competition
 
 ## Description of the competition
 
